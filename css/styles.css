@@ -9,3 +9,16 @@
 .red-background {
   background-color: red;
 }
+
+.light-background {
+  background-color: white;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.highlight {
+  background-color: rgb(251, 255, 0);
+}
